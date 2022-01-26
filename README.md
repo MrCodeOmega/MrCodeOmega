@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MrCodeOmega
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter and mobile game design
+-  🥇 Software Developer
+-  🥈 Level Designer
+-  🥉 Mobile Developer
 - Contact me from insta = @ code0mega
 
