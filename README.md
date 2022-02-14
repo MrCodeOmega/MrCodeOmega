@@ -1,5 +1,5 @@
 # Hello It's Hsyn Akar Git Page
-& take a Seat
+&take a Seat
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrcodeOmega&show_icons=true&theme=radical)
